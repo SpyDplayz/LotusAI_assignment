@@ -1,0 +1,352 @@
+[
+  {
+    "product_id":"P001",
+    "name":"Wireless Earbuds Pro",
+    "category":"Electronics",
+    "price":59.99,
+    "features":"[\"Bluetooth 5.0\", \"Noise cancellation\", \"Waterproof\"]"
+  },
+  {
+    "product_id":"P002",
+    "name":"Yoga Mat Premium",
+    "category":"Fitness",
+    "price":29.99,
+    "features":"[\"Eco-friendly\", \"Non-slip\", \"Extra thick\"]"
+  },
+  {
+    "product_id":null,
+    "name":null,
+    "category":null,
+    "price":199.95,
+    "features":null
+  },
+  {
+    "product_id":"P004",
+    "name":"Protein Powder",
+    "category":"Nutrition",
+    "price":null,
+    "features":"[\"20g protein\", \"Sugar-free\", \"All natural\"]"
+  },
+  {
+    "product_id":"P005",
+    "name":"Adjustable Dumbbell Set",
+    "category":"Fitness",
+    "price":149.99,
+    "features":null
+  },
+  {
+    "product_id":"P006",
+    "name":null,
+    "category":"Kitchen",
+    "price":89.95,
+    "features":"[\"Programmable\", \"10-cup capacity\", \"Auto shutoff\"]"
+  },
+  {
+    "product_id":"P007",
+    "name":"Ergonomic Office Chair",
+    "category":"Furniture",
+    "price":249.0,
+    "features":"[\"Lumbar support\", \"Adjustable height\", \"Breathable mesh\"]"
+  },
+  {
+    "product_id":"P008",
+    "name":"Wireless Charging Pad",
+    "category":"Electronics",
+    "price":24.99,
+    "features":"[\"Fast charging\", \"Multiple device support\", \"LED indicator\"]"
+  },
+  {
+    "product_id":"P009",
+    "name":"Smart Home Hub",
+    "category":"Electronics",
+    "price":129.99,
+    "features":"[\"Voice control\", \"Compatible with multiple devices\", \"Compact design\"]"
+  },
+  {
+    "product_id":"P010",
+    "name":"Blender",
+    "category":"Kitchen",
+    "price":79.95,
+    "features":null
+  },
+  {
+    "product_id":"P011",
+    "name":"Running Shoes",
+    "category":"Footwear",
+    "price":89.99,
+    "features":"[\"Lightweight\", \"Cushioned sole\", \"Breathable\"]"
+  },
+  {
+    "product_id":null,
+    "name":"Bluetooth Speaker",
+    "category":"Electronics",
+    "price":49.99,
+    "features":"[\"Waterproof\", \"10-hour battery\", \"Compact design\"]"
+  },
+  {
+    "product_id":"P013",
+    "name":"Resistance Bands Set",
+    "category":"Fitness",
+    "price":24.95,
+    "features":"[\"5 resistance levels\", \"Carry bag included\", \"Exercise guide\"]"
+  },
+  {
+    "product_id":"P014",
+    "name":null,
+    "category":null,
+    "price":199.99,
+    "features":"[\"HEPA filter\", \"Quiet operation\", \"Coverage up to 500 sq ft\"]"
+  },
+  {
+    "product_id":"P015",
+    "name":"Cast Iron Skillet",
+    "category":"Kitchen",
+    "price":34.95,
+    "features":"[\"Pre-seasoned\", \"Oven safe\", \"Even heat distribution\"]"
+  },
+  {
+    "product_id":"P016",
+    "name":"Wireless Mouse",
+    "category":null,
+    "price":29.99,
+    "features":"[\"Ergonomic design\", \"Long battery life\", \"Precision tracking\"]"
+  },
+  {
+    "product_id":"P017",
+    "name":"Meditation Cushion",
+    "category":"Wellness",
+    "price":39.95,
+    "features":null
+  },
+  {
+    "product_id":"P018",
+    "name":"Digital Drawing Tablet",
+    "category":"Electronics",
+    "price":149.99,
+    "features":"[\"8192 pressure levels\", \"Tilt recognition\", \"Wireless capability\"]"
+  },
+  {
+    "product_id":"P019",
+    "name":"Stainless Steel Water Bottle",
+    "category":"Drinkware",
+    "price":25.0,
+    "features":"[\"24-hour cold retention\", \"BPA-free\", \"Leak-proof\"]"
+  },
+  {
+    "product_id":"P020",
+    "name":"Bath Towel Set",
+    "category":"Home",
+    "price":45.99,
+    "features":"[\"100% cotton\", \"Quick-drying\", \"Set of 4\"]"
+  },
+  {
+    "product_id":"P021",
+    "name":"Smart Indoor Garden",
+    "category":"Home & Garden",
+    "price":99.95,
+    "features":"[\"Automatic lighting\", \"Plant pods included\", \"Self-watering\"]"
+  },
+  {
+    "product_id":"P022",
+    "name":"Gaming Mouse",
+    "category":"Gaming",
+    "price":79.99,
+    "features":"[\"Adjustable DPI\", \"RGB lighting\", \"Programmable buttons\"]"
+  },
+  {
+    "product_id":"P023",
+    "name":"Portable Bluetooth Keyboard",
+    "category":"Electronics",
+    "price":59.99,
+    "features":null
+  },
+  {
+    "product_id":"P024",
+    "name":null,
+    "category":"Personal Care",
+    "price":89.95,
+    "features":"[\"5 cleaning modes\", \"Pressure sensor\", \"2-week battery life\"]"
+  },
+  {
+    "product_id":"P025",
+    "name":"Fitness Tracker",
+    "category":"Wearables",
+    "price":69.99,
+    "features":"[\"Heart rate monitoring\", \"Sleep tracking\", \"Water resistant\"]"
+  },
+  {
+    "product_id":"P026",
+    "name":"Vacuum Insulated Travel Mug",
+    "category":"Drinkware",
+    "price":24.95,
+    "features":"[\"12-hour heat retention\", \"Leak-proof lid\", \"One-handed operation\"]"
+  },
+  {
+    "product_id":"P027",
+    "name":"Wireless Keyboard and Mouse Combo",
+    "category":"Electronics",
+    "price":49.99,
+    "features":"[\"Long battery life\", \"Quiet keys\", \"Compact design\"]"
+  },
+  {
+    "product_id":"P028",
+    "name":"Dutch Oven",
+    "category":"Kitchen",
+    "price":null,
+    "features":"[\"Enameled cast iron\", \"Dishwasher safe\", \"Lifetime warranty\"]"
+  },
+  {
+    "product_id":"P029",
+    "name":"LED Desk Lamp",
+    "category":"Home Office",
+    "price":39.99,
+    "features":"[\"Adjustable brightness\", \"Color temperature control\", \"USB charging port\"]"
+  },
+  {
+    "product_id":null,
+    "name":"Bluetooth Headphones",
+    "category":"Electronics",
+    "price":129.99,
+    "features":"[\"Active noise cancellation\", \"30-hour battery life\", \"Foldable design\"]"
+  },
+  {
+    "product_id":"P031",
+    "name":"Plant-Based Protein Bars",
+    "category":"Nutrition",
+    "price":24.99,
+    "features":null
+  },
+  {
+    "product_id":"P032",
+    "name":null,
+    "category":"Kitchen Appliances",
+    "price":59.95,
+    "features":"[\"Programmable timer\", \"Multiple heat settings\", \"Removable stoneware\"]"
+  },
+  {
+    "product_id":"P033",
+    "name":"Foam Roller",
+    "category":"Fitness",
+    "price":29.95,
+    "features":"[\"High-density foam\", \"Textured surface\", \"Lightweight\"]"
+  },
+  {
+    "product_id":"P034",
+    "name":"Reusable Food Storage Bags",
+    "category":"Kitchen",
+    "price":19.99,
+    "features":null
+  },
+  {
+    "product_id":"P035",
+    "name":"Digital Bathroom Scale",
+    "category":"Personal Care",
+    "price":34.95,
+    "features":"[\"High precision sensors\", \"Auto-calibration\", \"Tempered glass platform\"]"
+  },
+  {
+    "product_id":"P036",
+    "name":"Sunrise Alarm Clock",
+    "category":"Home",
+    "price":45.99,
+    "features":null
+  },
+  {
+    "product_id":"P037",
+    "name":"Essential Oil Diffuser",
+    "category":"Home",
+    "price":29.99,
+    "features":"[\"Color-changing LED\", \"Auto shutoff\", \"Ultrasonic technology\"]"
+  },
+  {
+    "product_id":"P038",
+    "name":"Streaming Media Player",
+    "category":"Electronics",
+    "price":39.99,
+    "features":"[\"4K Ultra HD\", \"Voice remote\", \"Dual-band WiFi\"]"
+  },
+  {
+    "product_id":"P039",
+    "name":"Smart Light Bulbs",
+    "category":"Smart Home",
+    "price":59.99,
+    "features":"[\"Color changing\", \"App control\", \"Voice assistant compatible\"]"
+  },
+  {
+    "product_id":"P040",
+    "name":"Collapsible Food Storage Containers",
+    "category":"Kitchen",
+    "price":null,
+    "features":"[\"Silicone construction\", \"Microwave safe\", \"Set of 4\"]"
+  },
+  {
+    "product_id":"P041",
+    "name":"Adjustable Laptop Stand",
+    "category":"Office",
+    "price":35.0,
+    "features":"[\"Ergonomic design\", \"Adjustable height\", \"Foldable\"]"
+  },
+  {
+    "product_id":null,
+    "name":null,
+    "category":"Kitchen",
+    "price":39.99,
+    "features":"[\"3 different sizes\", \"Juice groove\", \"Sustainable material\"]"
+  },
+  {
+    "product_id":"P043",
+    "name":"Resistance Loop Bands",
+    "category":null,
+    "price":14.95,
+    "features":"[\"5 resistance levels\", \"Carry bag\", \"Exercise guide\"]"
+  },
+  {
+    "product_id":"P044",
+    "name":"Touchscreen Winter Gloves",
+    "category":"Accessories",
+    "price":19.99,
+    "features":"[\"Conductive fingertips\", \"Thermal lining\", \"Non-slip grip\"]"
+  },
+  {
+    "product_id":"P045",
+    "name":"Automatic Pet Feeder",
+    "category":"Pet Supplies",
+    "price":79.99,
+    "features":"[\"Programmable schedule\", \"Portion control\", \"Voice recording\"]"
+  },
+  {
+    "product_id":"P046",
+    "name":"Insulated Lunch Bag",
+    "category":"Food Storage",
+    "price":24.95,
+    "features":null
+  },
+  {
+    "product_id":"P047",
+    "name":"Oscillating Tower Fan",
+    "category":"Home Climate",
+    "price":69.95,
+    "features":"[\"3 speed settings\", \"Remote control\", \"Timer function\"]"
+  },
+  {
+    "product_id":"P048",
+    "name":"Herb Garden Kit",
+    "category":"Garden",
+    "price":null,
+    "features":null
+  },
+  {
+    "product_id":"P049",
+    "name":"Wireless Phone Charger Stand",
+    "category":null,
+    "price":29.99,
+    "features":"[\"Fast charging\", \"Multiple viewing angles\", \"Compatible with most phones\"]"
+  },
+  {
+    "product_id":"P050",
+    "name":null,
+    "category":null,
+    "price":null,
+    "features":"[\"20 sound options\", \"Timer function\", \"Compact design\"]"
+  }
+]

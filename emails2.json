@@ -1,0 +1,154 @@
+[
+  {
+    "product_id": "P014",
+    "product_name": "Air Purifier",
+    "thread_id": "AP-2023-06-15",
+    "issue": "Filter Defect",
+    "messages": [
+      {
+        "date": "2023-06-15",
+        "from": "quality@yourcompany.com",
+        "to": "support@cleanairtech.com",
+        "subject": "Filter Issues - Air Purifier (P014)",
+        "content": "We've received multiple complaints about filters in your air purifier disintegrating after just 2 weeks of use. Customers report black particles being expelled from units. We've confirmed this issue in our testing lab. Please advise on immediate resolution."
+      },
+      {
+        "date": "2023-06-17",
+        "from": "support@cleanairtech.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Filter Issues - Air Purifier (P014)",
+        "content": "We've identified a defective batch of filters from a new supplier. This affects units manufactured between March-April 2023 (serial numbers 23031001-23042500). We'll ship replacement filters for all affected customers at our expense and extend the warranty by 6 months."
+      },
+      {
+        "date": "2023-06-18",
+        "from": "quality@yourcompany.com",
+        "to": "support@cleanairtech.com",
+        "subject": "RE: Filter Issues - Air Purifier (P014)",
+        "content": "Thank you for your prompt response and solution. We'll provide the customer list with serial numbers by tomorrow. Your proactive approach is appreciated and we'll resume sales once replacement filters are distributed."
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  },
+  {
+    "product_id": "P022",
+    "product_name": "Gaming Mouse",
+    "thread_id": "GM-2023-07-22",
+    "issue": "Sensor Malfunction",
+    "messages": [
+      {
+        "date": "2023-07-22",
+        "from": "quality@yourcompany.com",
+        "to": "support@gamextech.com",
+        "subject": "Sensor Issues - Gaming Mouse (P022)",
+        "content": "Customers report erratic cursor movement and sensor failures after 3-4 weeks of use. Our testing shows 40% of units developing this issue. This severely impacts gaming performance, contradicting your 'precision tracking' claim."
+      },
+      {
+        "date": "2023-07-24",
+        "from": "support@gamextech.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Sensor Issues - Gaming Mouse (P022)",
+        "content": "Our analysis indicates users may be using surfaces incompatible with our sensor technology. The mouse requires specific surface types for optimal performance as noted in manual page 7. We recommend users purchase our GameX mouse pad for best results."
+      },
+      {
+        "date": "2023-07-26",
+        "from": "quality@yourcompany.com",
+        "to": "manager@yourcompany.com",
+        "cc": "support@gamextech.com",
+        "subject": "Request to Blacklist - Gaming Mouse (P022)",
+        "content": "We recommend blacklisting the Gaming Mouse (P022). Manufacturer refuses to acknowledge a clear sensor defect and blames customer usage despite our testing on multiple standard surfaces. Recommend full refunds for purchases within last 3 months."
+      }
+    ],
+    "resolution": "blacklisted"
+  },
+  {
+    "product_id": "P018",
+    "product_name": "Digital Drawing Tablet",
+    "thread_id": "DT-2023-08-10",
+    "issue": "Driver Compatibility",
+    "messages": [
+      {
+        "date": "2023-08-10",
+        "from": "quality@yourcompany.com",
+        "to": "support@creativetablets.com",
+        "subject": "Driver Issues - Digital Drawing Tablet (P018)",
+        "content": "Customers report driver incompatibility with latest OS updates, causing pressure sensitivity failure. This represents 65% of recent complaints and significantly impacts core functionality. Please advise on timeline for driver updates."
+      },
+      {
+        "date": "2023-08-11",
+        "from": "support@creativetablets.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Driver Issues - Digital Drawing Tablet (P018)",
+        "content": "We confirm the compatibility issue and our development team has prioritized this fix. Updated drivers will be released within 7 days. For affected customers, we're offering a free 3-month subscription to premium drawing software as compensation for the inconvenience."
+      },
+      {
+        "date": "2023-08-12",
+        "from": "quality@yourcompany.com",
+        "to": "support@creativetablets.com",
+        "subject": "RE: Driver Issues - Digital Drawing Tablet (P018)",
+        "content": "Thank you for acknowledging this issue and providing a clear timeline and compensation plan. We'll communicate this to customers and maintain product listings with a temporary note about the upcoming driver update."
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  },
+  {
+    "product_id": "P039",
+    "product_name": "Smart Light Bulbs",
+    "thread_id": "SL-2023-09-05",
+    "issue": "App Connection Failure",
+    "messages": [
+      {
+        "date": "2023-09-05",
+        "from": "quality@yourcompany.com",
+        "to": "support@brightechhome.com",
+        "subject": "Connection Issues - Smart Light Bulbs (P039)",
+        "content": "Customers report bulbs disconnecting from the app after 2-3 weeks and requiring constant resets. Our testing confirms this occurs across multiple home networks and devices. This renders the smart features essentially unusable."
+      },
+      {
+        "date": "2023-09-06",
+        "from": "support@brightechhome.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Connection Issues - Smart Light Bulbs (P039)",
+        "content": "This issue stems from a recent app update (v2.5.7). We've identified the bug and will release a fixed version (v2.5.8) tomorrow. The bulbs themselves are functioning correctly. We recommend customers update the app as soon as available."
+      },
+      {
+        "date": "2023-09-08",
+        "from": "quality@yourcompany.com",
+        "to": "support@brightechhome.com",
+        "subject": "RE: Connection Issues - Smart Light Bulbs (P039)",
+        "content": "We've verified the new app version resolves the connection issues. Thanks for the quick resolution. We'll inform customers about the required update and continue monitoring feedback."
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  },
+  {
+    "product_id": "P036",
+    "product_name": "Sunrise Alarm Clock",
+    "thread_id": "SC-2023-10-12",
+    "issue": "Light Malfunction",
+    "messages": [
+      {
+        "date": "2023-10-12",
+        "from": "quality@yourcompany.com",
+        "to": "support@sleepwelltech.com",
+        "subject": "Light Issues - Sunrise Alarm Clock (P036)",
+        "content": "Multiple customers report the gradual light feature failing within 2 months. The light either remains stuck at full brightness or doesn't illuminate at all. This affects the primary function of the product and contradicts your 'gradual sunrise' marketing."
+      },
+      {
+        "date": "2023-10-14",
+        "from": "support@sleepwelltech.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Light Issues - Sunrise Alarm Clock (P036)",
+        "content": "Our tests show this only happens with voltage fluctuations or improper use. The product functions correctly when used as directed. We offer a 20% discount on replacements as a goodwill gesture, but this is not covered under warranty as it's not a manufacturing defect."
+      },
+      {
+        "date": "2023-10-15",
+        "from": "quality@yourcompany.com",
+        "to": "director@yourcompany.com",
+        "cc": "support@sleepwelltech.com",
+        "subject": "Request to Blacklist - Sunrise Alarm Clock (P036)",
+        "content": "We recommend blacklisting the Sunrise Alarm Clock (P036). Our lab testing confirmed the light failure occurs under normal operating conditions. Manufacturer is deflecting responsibility despite clear evidence. Suggest full refunds for all purchases within 3 months."
+      }
+    ],
+    "resolution": "blacklisted"
+  }
+]

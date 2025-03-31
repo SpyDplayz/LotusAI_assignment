@@ -1,0 +1,217 @@
+[
+  {
+    "product_id": "P006",
+    "product_name": "Coffee Maker Deluxe",
+    "thread_id": "CM-2023-05-10",
+    "issue": "Leaking Defect and Heating Element Failure",
+    "messages": [
+      {
+        "date": "2023-05-10",
+        "from": "quality@yourcompany.com",
+        "to": "support@homebrewappliances.com",
+        "subject": "Quality Issues with Coffee Maker Deluxe (P006)",
+        "content": "Dear HomeBrew Appliances Team,\nWe've been distributing your Coffee Maker Deluxe (Model HB-CM400) through our e-commerce platform for the past 4 months. Unfortunately, we've observed a concerning pattern of negative customer feedback regarding two specific issues:\n\nWater leakage from the bottom of the unit (reported in 14% of customer reviews)\nHeating element malfunction resulting in lukewarm coffee (reported in 9% of reviews)\n\nOur return rate for this product has reached 23% in the past month alone, significantly above our acceptable threshold of 5%.\nWe've enclosed a detailed report of customer complaints along with photos submitted by customers. We request your immediate investigation into these issues and a proposed resolution plan within 5 business days.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-05-12",
+        "from": "support@homebrewappliances.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Quality Issues with Coffee Maker Deluxe (P006)",
+        "content": "Dear Quality Control Team,\nThank you for bringing these issues to our attention. We take product quality very seriously.\nAfter preliminary investigation, we believe these reported issues may be related to improper usage rather than manufacturing defects. Our testing shows that overfilling the water reservoir or using the wrong type of coffee grounds can sometimes cause similar symptoms.\nCould you please ask your customers to confirm they're following the user manual guidelines? We'd also appreciate if you could send us 2-3 returned units for our engineers to inspect.\nBest regards,\nCustomer Support Team\nHomeBrew Appliances"
+      },
+      {
+        "date": "2023-05-15",
+        "from": "quality@yourcompany.com",
+        "to": "support@homebrewappliances.com",
+        "subject": "RE: Quality Issues with Coffee Maker Deluxe (P006)",
+        "content": "Dear HomeBrew Appliances Team,\nWe've shipped 3 returned units to your facility as requested (tracking #TR928344671).\nHowever, we must emphasize that our customer service team has already verified proper usage with these customers. Furthermore, our internal quality team has independently tested 5 units from our latest shipment and confirmed both issues under standard operating conditions:\n\nAll 5 units developed leaking within 7-10 days of regular use\n3 of 5 units showed heating element degradation, with water temperature only reaching 158°F (standard should be 195-205°F)\n\nWe've documented our testing methodology and enclosed the results. This appears to be a manufacturing defect affecting recent production batches, not a user error issue.\nPlease advise on your corrective action plan immediately. We've temporarily suspended sales of this product pending resolution.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-05-18",
+        "from": "vzhang@homebrewappliances.com",
+        "to": "quality@yourcompany.com",
+        "subject": "Coffee Maker Deluxe - Acknowledgment of Issue",
+        "content": "Dear Quality Control Team,\nAfter receiving your returned units and conducting further testing, we've identified a manufacturing defect in a batch of Coffee Maker Deluxe units produced between February-March 2023. The issue involves a faulty seal in the heating element assembly that degrades prematurely, causing both the leaking and heating problems you've reported.\nWe sincerely apologize for initially attributing this to user error. We're taking the following corrective actions:\n\nImmediate production halt and redesign of the problematic component\nRecall of all affected inventory in our warehouses\nReplacement program for affected customers\n\nWe will cover all costs associated with replacing defective units, including shipping and handling. Additionally, we'd like to offer affected customers a complementary coffee grinder (retail value $25) as compensation for the inconvenience.\nPlease share your inventory details so we can arrange for replacement with verified units from our quality-assured stock.\nSincerely,\nVictor Zhang\nProduct Director\nHomeBrew Appliances"
+      },
+      {
+        "date": "2023-05-19",
+        "from": "quality@yourcompany.com",
+        "to": "vzhang@homebrewappliances.com",
+        "subject": "RE: Coffee Maker Deluxe - Acknowledgment of Issue",
+        "content": "Dear Mr. Zhang,\nThank you for your prompt and responsible response. We appreciate your company taking ownership of this issue and proposing a comprehensive solution.\nWe've identified approximately 320 potentially affected units sold through our platform. We'll share the customer list securely via our partner portal for the replacement program. Your offer of the complementary coffee grinder is a nice gesture that should help rebuild customer goodwill.\nWe look forward to restoring this product listing once we receive the improved units. Please keep us updated on your production timeline.\nRegards,\nQuality Control Team"
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Yoga Mat Premium",
+    "thread_id": "YM-2023-06-05",
+    "issue": "Material Degradation Issue",
+    "messages": [
+      {
+        "date": "2023-06-05",
+        "from": "quality@yourcompany.com",
+        "to": "info@ecoflexfitness.com",
+        "subject": "Serious Quality Issue with Yoga Mat Premium (P002)",
+        "content": "Dear EcoFlex Fitness Team,\nWe're writing to alert you to a serious quality issue with your Yoga Mat Premium product that we've been distributing since January. We've received an alarming increase in customer complaints regarding material degradation, with the following specific issues:\n\nMaterial flaking/disintegrating during normal use\nStrong chemical odor not dissipating over time\nSlipping hazard due to inadequate grip\n\nIn the past 30 days alone, we've received 27 negative reviews specifically mentioning these issues, with photographic evidence showing the material literally crumbling during use. This represents a significant safety concern as well as a failure to meet the advertised \"eco-friendly\" and \"non-slip\" claims.\nWe request your immediate response regarding these issues and your proposed resolution.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-06-07",
+        "from": "info@ecoflexfitness.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Serious Quality Issue with Yoga Mat Premium (P002)",
+        "content": "Dear Quality Team,\nWe appreciate you bringing these customer concerns to our attention.\nWe stand by the quality of our Yoga Mat Premium product. The material used is our proprietary EcoFlex blend which requires a brief break-in period. Any initial odor should dissipate within 1-2 weeks of airing out, and the surface needs several uses to develop its full grip potential.\nSome minor material shedding is normal during the first few uses as excess manufacturing materials are removed through normal wear. This is not a defect or degradation.\nWe recommend advising customers to:\n\nAir out the mat for 48 hours before first use\nWipe with a damp cloth before initial use\nUse our recommended EcoClean spray (available separately) for maintenance\n\nBest regards,\nEcoFlex Customer Care"
+      },
+      {
+        "date": "2023-06-09",
+        "from": "quality@yourcompany.com",
+        "to": "info@ecoflexfitness.com",
+        "subject": "RE: Serious Quality Issue with Yoga Mat Premium (P002)",
+        "content": "Dear EcoFlex Fitness Team,\nWe appreciate your response, but must respectfully disagree with your assessment. The issues we're seeing go far beyond a \"break-in period\" or \"minor material shedding.\"\nWe've attached video evidence from customers showing large chunks of material separating from the mat during standard yoga poses. One customer reported collecting 3 tablespoons of material flakes after a single 30-minute session. This is clearly a product failure, not a normal break-in process.\nAdditionally, we've had our internal product team test new mats from our latest shipment:\n\nChemical odor remained strong even after 3 weeks of airing out\nSignificant material degradation observed after just 5 standard yoga sessions\nSlippage tests showed dangerous levels of movement during basic poses\n\nThese results directly contradict your product claims and pose potential safety risks to our customers.\nWe request that you acknowledge this manufacturing defect and provide a recall/replacement plan within 48 hours, or we'll need to escalate this matter further.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-06-12",
+        "from": "info@ecoflexfitness.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Serious Quality Issue with Yoga Mat Premium (P002)",
+        "content": "Dear Quality Team,\nAfter reviewing your evidence and conducting additional internal testing, we maintain that our Yoga Mat Premium product meets industry standards. The material shedding is within normal parameters for our eco-friendly material composition.\nWe recognize that some customers may have different expectations, but we do not consider this a manufacturing defect or safety issue. We'd be willing to offer a 15% discount on replacement orders for dissatisfied customers as a goodwill gesture, but we do not believe a recall is warranted.\nRegards,\nEcoFlex Management"
+      },
+      {
+        "date": "2023-06-13",
+        "from": "quality@yourcompany.com",
+        "to": "schen@yourcompany.com",
+        "cc": "info@ecoflexfitness.com",
+        "subject": "Request to Blacklist - Yoga Mat Premium (P002)",
+        "content": "Dear Sarah,\nI'm writing to formally request the blacklisting of the Yoga Mat Premium (P002) from EcoFlex Fitness from our marketplace.\nDespite providing clear evidence of serious quality and safety issues, the manufacturer has refused to acknowledge the defects or provide an adequate resolution. Their latest response offers only a small discount rather than addressing the fundamental issues with their product.\nWe've documented:\n\nMaterial degradation creating potential respiratory hazards (particles)\nSlipping hazard creating fall risk during yoga poses\nMisrepresentation of product as \"eco-friendly\" and \"non-slip\"\n32% return rate in the past 45 days\n\nI recommend:\n\nImmediate removal from our marketplace\nFull refund for all customers who purchased within the last 3 months\nAddition of EcoFlex Fitness to our vendor watch list for enhanced quality monitoring of any other products\n\nPlease let me know if you need any additional information to support this request.\nRegards,\nQuality Control Team"
+      }
+    ],
+    "resolution": "blacklisted"
+  },
+  {
+    "product_id": "P027",
+    "product_name": "Wireless Keyboard and Mouse Combo",
+    "thread_id": "KM-2023-06-25",
+    "issue": "Connectivity Issues and Build Quality Problems",
+    "messages": [
+      {
+        "date": "2023-06-25",
+        "from": "quality@yourcompany.com",
+        "to": "support@techease.com",
+        "subject": "Quality Concerns - Wireless Keyboard and Mouse Combo (P027)",
+        "content": "Dear TechEase Team,\nWe're contacting you regarding quality issues with your Wireless Keyboard and Mouse Combo (P027) that we've been selling since February. Our customers have reported two primary issues:\n\nConnectivity problems - frequent disconnections and pairing failures\nBuild quality issues - including premature key failures and structural integrity problems\n\nIn particular, we've seen reports of:\n\nKeys sticking or becoming unresponsive after minimal use\nMouse scroll wheels malfunctioning within 4-8 weeks\nBattery connection issues causing power loss\nPhysical damage (cracking) during normal usage\n\nOur return rate for this product has reached 18% this month, which is significantly above our marketplace average of 3% for this category.\nCould you please investigate these issues and provide feedback on potential causes and solutions?\nBest regards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-06-27",
+        "from": "support@techease.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Quality Concerns - Wireless Keyboard and Mouse Combo (P027)",
+        "content": "Dear Quality Control Team,\nThank you for bringing these issues to our attention. We take product quality very seriously and would like to investigate.\nCould you please provide:\n\nBatch numbers from product packaging (usually found on a sticker with \"BN:\" prefix)\nApproximate purchase dates for the affected units\nPhotos of the reported physical damage if available\n\nIt's possible that a specific production batch may have had issues, and we'd like to identify if that's the case.\nIn the meantime, for customers experiencing connectivity problems, please advise them to try replacing the batteries with high-quality alkaline batteries and ensure they're operating the devices within the recommended 10-meter range from the receiver.\nWe appreciate your patience while we investigate this matter.\nRegards,\nTechEase Support Team"
+      },
+      {
+        "date": "2023-06-30",
+        "from": "quality@yourcompany.com",
+        "to": "support@techease.com",
+        "subject": "RE: Quality Concerns - Wireless Keyboard and Mouse Combo (P027)",
+        "content": "Dear TechEase Support Team,\nThank you for your prompt response. We've compiled the requested information:\n\nBatch numbers from returned products: BN, BN, BN\nPurchase dates range from February 15 to May 30, 2023\nPhotos of 12 damaged units attached (showing keyboard frame cracks, loose key caps, and mouse button/scroll wheel damage)\n\nOur technical team has also verified that the connectivity issues persist even with brand new, high-quality batteries and when used at optimal range. The disconnection problem appears to be intermittent but consistent across multiple units.\nFor your information, we've temporarily paused new orders of this product until we can determine the root cause of these issues.\nWe look forward to your assessment and proposed resolution.\nBest regards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-07-05",
+        "from": "lwong@techease.com",
+        "to": "quality@yourcompany.com",
+        "subject": "Wireless Keyboard/Mouse Issues - Resolution Plan",
+        "content": "Dear Quality Control Team,\nAfter reviewing the information you provided and testing samples from the same production batches, we've identified two separate issues:\n\nConnectivity problems: We discovered a firmware issue in our wireless receiver that causes intermittent disconnections. This affects all units from batches TE2301087 through TE2302100.\nBuild quality issues: We identified a manufacturing defect in the keyboard frame and mouse scroll wheel mechanism in batches TE2301156 and TE2302043 due to a change in our plastic supplier that didn't meet our specifications.\n\nWe sincerely apologize for these issues and propose the following resolution:\n\nWe will replace all affected units with our newest production batch, which has corrected both issues.\nWe will cover all shipping and handling costs associated with returns and replacements.\nWe would like to offer affected customers a complementary mouse pad and a 1-year extended warranty.\n\nWe can begin shipping replacement units as early as next week. We've also implemented additional quality control measures to prevent similar issues in future production.\nPlease let me know if this resolution is acceptable, and we can coordinate the logistics.\nSincerely,\nLisa Wong\nQuality Assurance Manager\nTechEase Electronics"
+      },
+      {
+        "date": "2023-07-06",
+        "from": "quality@yourcompany.com",
+        "to": "lwong@techease.com",
+        "subject": "RE: Wireless Keyboard/Mouse Issues - Resolution Plan",
+        "content": "Dear Ms. Wong,\nThank you for your thorough investigation and candid response about the issues with the Wireless Keyboard and Mouse Combo.\nWe appreciate your taking responsibility and offering a comprehensive solution. Your proposed resolution is acceptable, and we're pleased to hear about the additional quality control measures being implemented.\nWe'll collaborate with your team to facilitate the replacement process for our customers. Please connect with our returns department (returns@yourcompany.com) to coordinate the logistics.\nOnce we receive and verify the quality of the new batch, we'll be happy to resume selling this product on our platform.\nBest regards,\nQuality Control Team"
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  },
+  {
+    "product_id": "P012",
+    "product_name": "Bluetooth Speaker",
+    "thread_id": "BS-2023-07-20",
+    "issue": "Waterproofing and Battery Life Defects",
+    "messages": [
+      {
+        "date": "2023-07-20",
+        "from": "quality@yourcompany.com",
+        "to": "quality@soundwaveaudio.com",
+        "subject": "Critical Defects - Bluetooth Speaker (P012)",
+        "content": "Dear SoundWave Audio Team,\nWe need to bring to your attention serious quality issues with your Bluetooth Speaker (P012) that we've been distributing since January. Customer feedback and returns have highlighted two critical problems:\n\nWater resistance failure: Despite being advertised as \"waterproof,\" multiple units have failed after minimal exposure to water (light rain, poolside splashes). This directly contradicts the product's main selling feature.\nBattery life degradation: Customers report dramatic battery life reduction after just a few charging cycles, dropping from the advertised 10 hours to 2-3 hours within weeks of purchase.\n\nOur testing lab has verified these issues with samples from our inventory:\n\n7/10 units tested showed electrical failure after standardized water resistance testing\n8/10 units showed >60% battery life degradation after just 30 charging cycles\n\nThese problems represent a significant breach of advertised specifications. We need to understand the cause and your proposed resolution immediately.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-07-23",
+        "from": "quality@soundwaveaudio.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Critical Defects - Bluetooth Speaker (P012)",
+        "content": "Dear Quality Control Team,\nThank you for sharing these concerns. We're surprised by these reports as our internal testing meets all advertised specifications.\nRegarding the specific issues:\n\nWater resistance: Our product is rated IPX5, which protects against low-pressure water jets from any direction, but is not designed for immersion. Perhaps customer expectations were misaligned with this rating?\nBattery life: The 10-hour specification is based on 50% volume. Higher volume levels will naturally reduce battery life significantly. Have you verified the testing conditions?\n\nCould you please share your testing methodology so we can attempt to replicate your findings? We're also requesting samples of failed units for our engineering team to examine.\nBest regards,\nSoundWave Quality Team"
+      },
+      {
+        "date": "2023-07-25",
+        "from": "quality@yourcompany.com",
+        "to": "quality@soundwaveaudio.com",
+        "subject": "RE: Critical Defects - Bluetooth Speaker (P012)",
+        "content": "Dear SoundWave Quality Team,\nThank you for your response. To clarify:\n\nWater resistance: Your product listing and packaging explicitly states \"Waterproof\" and shows images of the speaker being used in rain and poolside scenarios. The IPX5 rating is not mentioned anywhere. This represents a clear case of false advertising. Our testing used light water sprays consistent with rain conditions, well within IPX5 parameters.\nBattery life: Our testing was conducted at exactly 50% volume using standardized audio tracks, following industry testing protocols. The dramatic degradation after just 30 cycles indicates a fundamental battery or charging circuit defect.\n\nWe've shipped 5 failed units to your facility (tracking #SWA92834461) and attached our detailed testing protocols for your review.\nThe product page on our site specifically promises \"Waterproof design for worry-free outdoor use\" and \"10-hour battery life for all-day listening.\" Both claims are demonstrably false based on our findings.\nWe request a formal response and corrective action plan within 5 business days.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-07-31",
+        "from": "quality@soundwaveaudio.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Critical Defects - Bluetooth Speaker (P012)",
+        "content": "Dear Quality Control Team,\nAfter receiving and testing the returned units, we've conducted a thorough investigation.\nWhile we believe our product generally meets industry standards, we acknowledge there may have been some inconsistencies in our marketing materials regarding waterproofing claims. We maintain that the battery performance is acceptable within standard parameters for this price point.\nAs a gesture of goodwill, we're willing to offer a 20% refund to customers who express dissatisfaction with these specific issues, while allowing them to keep the product. We believe this is a fair resolution that acknowledges customer concerns while recognizing the product still delivers functional value.\nPlease let us know if this arrangement is acceptable.\nRegards,\nSoundWave Quality Team"
+      },
+      {
+        "date": "2023-08-01",
+        "from": "quality@yourcompany.com",
+        "to": "mjohnson@yourcompany.com",
+        "cc": "quality@soundwaveaudio.com",
+        "subject": "Request to Blacklist - Bluetooth Speaker (P012)",
+        "content": "Dear Michael,\nI'm writing to formally request the blacklisting of the SoundWave Audio Bluetooth Speaker (P012) from our marketplace.\nDespite clear evidence of false advertising and product defects, SoundWave Audio has refused to acknowledge these issues properly or offer an adequate resolution. Their proposed 20% partial refund does not address the fundamental misrepresentation of the product's core features.\nKey issues documented:\n\nFalse waterproofing claims leading to product failure and potential electrical hazards\nBattery life less than 30% of advertised performance\nManufacturer's acknowledgment of \"inconsistencies in marketing materials\" without proper corrective action\n22% return rate over the past 60 days\n\nI recommend:\n\nImmediate removal from our marketplace\nFull refund for all customers who purchased within the last 3 months\nClear communication to affected customers about the false waterproofing claims as this represents a potential safety issue\n\nPlease advise if you need any additional information to process this request.\nRegards,\nQuality Control Team"
+      }
+    ],
+    "resolution": "blacklisted"
+  },
+  {
+    "product_id": "P031",
+    "product_name": "Plant-Based Protein Bars",
+    "thread_id": "PB-2023-08-15",
+    "issue": "Mold and Allergen Concerns",
+    "messages": [
+      {
+        "date": "2023-08-15",
+        "from": "quality@yourcompany.com",
+        "to": "safety@nutripurefoods.com",
+        "subject": "Urgent: Quality and Safety Issues with Plant-Based Protein Bars (P031)",
+        "content": "Dear NutriPure Foods Team,\nWe're writing regarding urgent quality and safety concerns with your Plant-Based Protein Bars (Mixed Berry flavor, P031) that require immediate attention.\nIn the past two weeks, we've received multiple serious complaints:\n\nMold contamination: 7 customers have reported visible mold inside sealed product packaging\nUndisclosed allergens: 3 customers reported allergic reactions, claiming the bars contain allergens not prominently disclosed on packaging\nForeign objects: 2 reports of small plastic fragments embedded in the bars\n\nWe've attached customer-submitted photos documenting these issues. As this is a food product, these complaints represent serious health and safety concerns that require urgent investigation.\nWe've immediately suspended sales of this product pending your response. Please advise on your investigation process and immediate corrective actions within 24 hours.\nRegards,\nQuality Control Team"
+      },
+      {
+        "date": "2023-08-16",
+        "from": "safety@nutripurefoods.com",
+        "to": "quality@yourcompany.com",
+        "subject": "RE: Urgent: Quality and Safety Issues with Plant-Based Protein Bars (P031)",
+        "content": "Dear Quality Control Team,\nThank you for bringing these matters to our attention. Food safety is our absolute top priority, and we take these reports extremely seriously.\nWe've immediately initiated our quality incident protocol:\n\nWe've identified the production batches based on your customers' reports (primarily batch #NP0423B)\nOur quality team has pulled samples from our retention library for testing\nWe've alerted our manufacturing facility to isolate any remaining inventory from these batches\nOur food safety team is conducting a comprehensive investigation of the production records\n\nAs a precautionary measure, we're requesting an immediate halt of all sales and distribution of batch #NP0423B while we investigate. We'll provide an update within 48 hours with preliminary findings and next steps.\nPlease share any lot codes or expiration dates from affected products if available, as this will help us narrow down our investigation.\nSincerely,\nFood Safety Team\nNutriPure Foods"
+      },
+      {
+        "date": "2023-08-18",
+        "from": "safety@nutripurefoods.com",
+        "to": "quality@yourcompany.com",
+        "subject": "Protein Bars Investigation - Preliminary Findings",
+        "content": "Dear Quality Control Team,\nFollowing our intensive investigation over the past 48 hours, we have preliminary findings to share:\n\nMold contamination: We've confirmed a moisture control issue during packaging of batch #NP0423B produced on April 10, 2023. Our retention samples show similar contamination, confirming the validity of customer reports.\nAllergen concerns: We've identified that our Mixed Berry flavor contains trace amounts of almond protein as a processing aid, which is listed in the ingredients but not highlighted in the allergen statement as required by regulations.\nForeign objects: We've found evidence of a damaged plastic component in the production line that may have shed small fragments during the production run.\n\nGiven these findings, we're taking the following immediate actions:\n\nIssuing a voluntary recall of ALL Plant-Based Protein Bars with lot codes beginning with NP0423\nOffering full refunds plus 25% compensation to affected customers\nCorrecting our allergen labeling on all current and future packaging\nImplementing additional quality control checkpoints in our manufacturing process\n\nWe deeply apologize for these issues and take full responsibility for the quality failures. We'd like to coordinate the recall and customer communication process with your team as soon as possible.\nSincerely,\nDr. Amanda Rivera\nVP of Food Safety & Quality\nNutriPure Foods"
+      },
+      {
+        "date": "2023-08-19",
+        "from": "quality@yourcompany.com",
+        "to": "safety@nutripurefoods.com",
+        "subject": "RE: Protein Bars Investigation - Preliminary Findings",
+        "content": "Dear Dr. Rivera,\nThank you for your comprehensive investigation and transparent communication regarding the issues with the Plant-Based Protein Bars.\nWe appreciate NutriPure's proactive approach in taking full responsibility and implementing appropriate corrective actions. Your proposed recall and compensation plan seems thorough and appropriate given the nature of the issues identified.\nOur customer service team will coordinate with yours to ensure all affected customers are properly notified and compensated. Please share your recall communication template so we can ensure consistent messaging across all channels.\nGiven your swift and responsible handling of this situation, we remain confident in NutriPure as a vendor partner. We'd be happy to resume selling your products once the recall is complete and the corrective"
+      }
+    ],
+    "resolution": "manufacturer_accepted"
+  }
+]

@@ -1,0 +1,141 @@
+review_id,product_id,rating,review_text,review_date
+1,P001,5,"These earbuds are amazing! The sound quality is crystal clear and the noise cancellation works perfectly.",2023-01-15
+2,P001,4,"Great earbuds for the price. Battery life is excellent but they're a bit uncomfortable after a few hours.",2023-02-03
+3,P001,3,"Average product. The sound is good but I've had connectivity issues.",2023-03-22
+4,P002,5,"Best yoga mat I've ever owned! Thick enough for comfort but not too bulky to carry around.",2023-01-17
+5,P002,2,"Disappointed with the quality. It started falling apart after just a few weeks.",2023-02-10
+6,P002,1,"Complete waste of money. Slippery and thin despite the description saying otherwise.",2023-03-05
+7,P003,5,"This smart watch exceeded my expectations. The heart rate monitor is very accurate compared to my medical devices.",2023-01-20
+8,P003,4,"Good watch with lots of features. Battery life could be better though.",2023-02-15
+9,P003,5,"Absolutely love this watch! It's helped me track my fitness goals so effectively.",2023-03-10
+10,P004,3,"The protein powder is okay. Mixes well but the taste is quite artificial.",2023-01-25
+11,P004,5,"Great product! No artificial taste and mixes perfectly with my morning smoothie.",2023-02-20
+12,P004,4,"Pretty good protein powder. I like that it's sugar-free but wish it had more flavor options.",2023-03-15
+13,P005,5,"These adjustable dumbbells are a game-changer for home workouts. So convenient!",2023-01-30
+14,P005,4,"Good quality and saves a ton of space. A bit pricey but worth it.",2023-02-25
+15,P005,5,"Best fitness purchase I've made this year! Easy to adjust and very durable.",2023-03-20
+16,P006,2,"Disappointing coffee maker. It leaks and the coffee isn't very hot.",2022-12-05
+17,P006,1,"DO NOT BUY! Stopped working after just 2 weeks. Complete waste of money.",2023-01-10
+18,P006,3,"It's an okay coffee maker. Nothing special but gets the job done.",2023-02-05
+19,P007,5,"This chair saved my back! So comfortable for long work days.",2023-01-12
+20,P007,5,"Excellent ergonomics and very adjustable. Worth every penny for my home office.",2023-02-08
+21,P007,4,"Good chair with nice lumbar support. Assembly was a bit challenging though.",2023-03-04
+22,P008,4,"Works well with all my devices. Charging is fast and reliable.",2023-01-14
+23,P008,5,"Perfect charging pad! I love the LED indicator - makes it easy to know when charging is complete.",2023-02-10
+24,P008,3,"It's fine. Nothing spectacular but does what it's supposed to do.",2023-03-06
+25,P009,5,"This smart home hub has transformed our house! So easy to use and compatible with all our devices.",2023-01-16
+26,P009,4,"Good hub with nice voice control features. Setup was a bit confusing though.",2023-02-12
+27,P009,2,"Not as compatible as advertised. Had trouble connecting several of my devices.",2023-03-08
+28,P010,5,"Best blender I've ever owned! Crushes ice like it's nothing.",2023-01-18
+29,P010,4,"Good powerful blender. A bit loud but gets the job done well.",2023-02-14
+30,P010,5,"Love this blender! Makes my morning smoothies in seconds with no chunks.",2023-03-10
+31,P011,5,"Most comfortable running shoes I've owned. Great support and very lightweight.",2023-01-20
+32,P011,4,"Good running shoes with nice cushioning. The sizing runs a bit small though.",2023-02-16
+33,P011,3,"They're okay. Not as breathable as advertised but otherwise decent.",2023-03-12
+34,P012,5,"Amazing sound quality for such a compact speaker! The battery life is impressive too.",2023-01-22
+35,P012,4,"Good portable speaker. Works great by the pool since it's waterproof.",2023-02-18
+36,P012,5,"Love this little speaker! Perfect for travel and outdoor activities.",2023-03-14
+37,P013,5,"Great resistance bands set! The different levels make it perfect for progressive training.",2023-01-24
+38,P013,4,"Good quality bands that haven't snapped on me yet like previous ones I've owned.",2023-02-20
+39,P013,5,"Excellent workout addition! The exercise guide is very helpful for beginners.",2023-03-16
+40,P014,5,"This air purifier has made a huge difference for my allergies. Very quiet operation too!",2023-01-26
+41,P014,4,"Works well and covers my whole living room. Filter replacements are a bit expensive though.",2023-02-22
+42,P014,5,"Best purchase for my home this year! The air quality difference is noticeable.",2023-03-18
+43,P015,5,"This cast iron skillet is fantastic! Even heat distribution and already well-seasoned.",2023-01-28
+44,P015,4,"Good quality skillet. Heavy but that's expected with cast iron.",2023-02-24
+45,P015,5,"Love cooking with this skillet! It's transformed my cooking game completely.",2023-03-20
+46,P016,4,"Comfortable mouse with good responsiveness. Battery life is excellent.",2023-01-30
+47,P016,5,"Perfect wireless mouse for my needs! No lag and very precise tracking.",2023-02-26
+48,P016,3,"It's okay. Nothing special but works reliably.",2023-03-22
+49,P017,5,"Most comfortable meditation cushion I've tried. Great support for long sessions.",2023-02-01
+50,P017,4,"Nice cushion with good support. The cover is easy to remove and wash too.",2023-02-27
+51,P017,5,"Love this meditation cushion! Perfect height and firmness.",2023-03-24
+52,P018,5,"This drawing tablet is amazing for digital art! The pressure sensitivity is incredibly accurate.",2023-02-03
+53,P018,4,"Good tablet for the price. The wireless capability is convenient but sometimes lags.",2023-03-01
+54,P018,5,"Fantastic drawing tablet! Has completely replaced my need for traditional media.",2023-03-26
+55,P019,5,"Best water bottle I've owned! Keeps water cold for the entire day as promised.",2023-02-05
+56,P019,4,"Good quality bottle that doesn't leak. A bit heavy when full though.",2023-03-03
+57,P019,5,"Love this water bottle! The cold retention is amazing even in hot weather.",2023-03-28
+58,P020,4,"Nice towel set. Soft and absorbent but not as quick-drying as advertised.",2023-02-07
+59,P020,3,"Average towels. Nothing special for the price point.",2023-03-05
+60,P020,5,"Excellent towel set! So soft and plush - hotel quality for sure.",2023-03-30
+61,P021,5,"This indoor garden is wonderful! Growing fresh herbs has never been easier.",2023-02-09
+62,P021,4,"Great concept and works well. The plant pods are a bit expensive to replace though.",2023-03-07
+63,P021,5,"Love my smart garden! It's so satisfying to grow my own herbs with minimal effort.",2023-04-01
+64,P022,5,"Best gaming mouse I've ever used! Perfect weight and the programmable buttons are so useful.",2023-02-11
+65,P022,4,"Good gaming mouse with nice RGB effects. Software is a bit complicated though.",2023-03-09
+66,P022,5,"This mouse has improved my gaming performance significantly! Great investment.",2023-04-03
+67,P023,4,"Nice keyboard that's very portable. Battery life is good but keys are a bit small.",2023-02-13
+68,P023,5,"Perfect travel keyboard! Connects to all my devices seamlessly.",2023-03-11
+69,P023,3,"It's okay for occasional use but I wouldn't recommend for daily typing.",2023-04-05
+70,P024,5,"This electric toothbrush is amazing! My teeth have never felt cleaner.",2023-02-15
+71,P024,4,"Good toothbrush with useful features. Replacement heads are expensive though.",2023-03-13
+72,P024,5,"Love this toothbrush! The pressure sensor has saved my gums from overbrushing.",2023-04-07
+73,P025,5,"This fitness tracker has all the features I need and the battery lasts forever!",2023-02-17
+74,P025,4,"Good tracker that's comfortable to wear 24/7. App could use some improvements.",2023-03-15
+75,P025,3,"It's okay. Step counting seems accurate but sleep tracking is questionable.",2023-04-09
+76,P026,5,"Best travel mug I've owned! Keeps coffee hot for my entire morning commute.",2023-02-19
+77,P026,4,"Good mug that doesn't leak. One-handed operation is convenient while driving.",2023-03-17
+78,P026,5,"Love this travel mug! 12 hours later and my tea is still hot - amazing!",2023-04-11
+79,P027,4,"Nice keyboard and mouse combo. Good value for the price point.",2023-02-21
+80,P027,5,"Perfect setup for my home office! The quiet keys are great for video calls.",2023-03-19
+81,P027,3,"Average quality. Works fine but nothing special to report.",2023-04-13
+82,P028,5,"This Dutch oven is a kitchen game-changer! Perfect for slow-cooking stews.",2023-02-23
+83,P028,4,"Good quality pot that distributes heat well. A bit heavy but that's expected.",2023-03-21
+84,P028,5,"Love this Dutch oven! The enamel coating makes cleanup so easy.",2023-04-15
+85,P029,5,"This desk lamp is perfect! The adjustable brightness and temperature are so useful.",2023-02-25
+86,P029,4,"Nice lamp with good features. The USB port is very convenient.",2023-03-23
+87,P029,5,"Best desk lamp I've owned! Great for reducing eye strain during late work nights.",2023-04-17
+88,P030,5,"These headphones are incredible! The noise cancellation is better than brands twice the price.",2023-02-27
+89,P030,4,"Good headphones with excellent battery life. A bit tight on the ears after several hours.",2023-03-25
+90,P030,5,"Love these headphones! Perfect for travel and working in noisy environments.",2023-04-19
+91,P031,3,"The protein bars are okay taste-wise. A bit chalky texture but decent protein content.",2023-03-01
+92,P031,2,"Not impressed. Very artificial taste and too sweet despite being 'healthy'.",2023-03-27
+93,P031,4,"Pretty good plant-based option. Mixed berry is the best flavor of the bunch.",2023-04-21
+94,P032,5,"This slow cooker is amazing! Set it in the morning and dinner is perfect when I get home.",2023-03-03
+95,P032,4,"Good slow cooker with useful timer function. Wish the cord was longer though.",2023-03-29
+96,P032,5,"Love this slow cooker! Has transformed my meal prep routine completely.",2023-04-23
+97,P033,5,"Best foam roller for post-workout recovery! The textured surface really gets into tight muscles.",2023-03-05
+98,P033,4,"Good quality roller at a reasonable price. Firm but not too hard.",2023-03-31
+99,P033,5,"This foam roller has been a game-changer for my back pain! Highly recommend.",2023-04-25
+100,P034,5,"These reusable bags are fantastic! Much sturdier than expected and easy to clean.",2023-03-07
+101,P034,4,"Good alternative to disposable plastic bags. Wish they were a bit larger though.",2023-04-02
+102,P034,5,"Love these bags! Have significantly reduced our household plastic waste.",2023-04-27
+103,P035,4,"Good scale with consistent readings. The auto-calibration is a nice feature.",2023-03-09
+104,P035,5,"This scale is perfect! The precision is impressive and the design is sleek.",2023-04-04
+105,P035,3,"It's okay. Works as expected but nothing special for the price.",2023-04-29
+106,P036,5,"This sunrise alarm has transformed my mornings! Waking up feels so much more natural now.",2023-03-11
+107,P036,4,"Nice alarm with gentle wake-up function. The nature sounds are a bit artificial though.",2023-04-06
+108,P036,5,"Best purchase for improving my sleep cycle! No more jarring alarm sounds.",2023-05-01
+109,P037,5,"This diffuser is beautiful and works perfectly! The changing colors are a nice touch.",2023-03-13
+110,P037,4,"Good diffuser with nice mist output. Auto shutoff is a great safety feature.",2023-04-08
+111,P037,5,"Love this diffuser! Has made our home smell amazing and helps with relaxation.",2023-05-03
+112,P038,4,"Good streaming device that's easy to set up. Remote is a bit basic though.",2023-03-15
+113,P038,5,"This media player is fantastic! The 4K quality is stunning on my TV.",2023-04-10
+114,P038,3,"It's okay. Works as expected but interface could be more user-friendly.",2023-05-05
+115,P039,5,"These smart bulbs have transformed our home lighting! The app control is so convenient.",2023-03-17
+116,P039,4,"Good quality bulbs with nice color options. Setup was a bit complicated though.",2023-04-12
+117,P039,5,"Love these smart bulbs! The voice control works flawlessly with our home assistant.",2023-05-07
+118,P040,4,"These containers are great space-savers. Food safe and convenient to store.",2023-03-19
+119,P040,5,"Best food storage solution! Love that they collapse for easy storage when not in use.",2023-04-14
+120,P040,3,"They're okay. Lids don't seal as tightly as I'd like for liquids.",2023-05-09
+121,P041,5,"This laptop stand has improved my posture significantly! Very sturdy despite being adjustable.",2023-03-21
+122,P041,4,"Good stand that folds flat for travel. Wish it had a bit more height adjustment.",2023-04-16
+123,P041,5,"Perfect ergonomic solution for working from home! My neck pain has disappeared.",2023-05-11
+124,P042,5,"These cutting boards are beautiful and functional! The juice groove is very useful.",2023-03-23
+125,P042,4,"Nice set with different sizes for various tasks. Need regular oiling to maintain.",2023-04-18
+126,P042,5,"Love these bamboo cutting boards! Gentle on knife edges and sustainably made.",2023-05-13
+127,P043,5,"These resistance bands are perfect for home workouts! All 5 levels offer good progression.",2023-03-25
+128,P043,4,"Good quality bands that haven't lost their elasticity. Exercise guide is helpful.",2023-04-20
+129,P043,5,"Best affordable fitness equipment! So versatile for different workout routines.",2023-05-15
+130,P044,4,"These gloves work well with touchscreens and are reasonably warm. Good value.",2023-03-27
+131,P044,3,"They're okay. Touch function works but not as warm as I'd hoped for winter.",2023-04-22
+132,P044,5,"Perfect winter solution! Keep my hands warm while using my phone outdoors.",2023-05-17
+133,P045,5,"This pet feeder has been a game-changer! My cat is fed on schedule even when I'm away.",2023-03-29
+134,P045,4,"Good feeder with reliable scheduling. Wish it had a camera feature though.",2023-04-24
+135,P045,5,"Love this pet feeder! The voice recording feature calms my anxious dog at feeding time.",2023-05-19
+136,P046,4,"Nice lunch bag that keeps food cold for hours. Good size for adult lunches.",2023-03-31
+137,P046,5,"Perfect lunch solution! The multiple pockets are great for organizing utensils and snacks.",2023-04-26
+138,P046,3,"It's adequate. Insulation is okay but not great for very hot or cold items.",2023-05-21
+139,P047,5,"This fan is powerful and quiet! The remote control is very convenient.",2023-04-02
+140,P047,4,"Good fan with nice oscillation feature. Timer function is useful for nighttime.",2023-04-28
