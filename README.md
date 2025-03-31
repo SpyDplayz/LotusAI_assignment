@@ -1,156 +1,50 @@
-Customer Support & Product Review Analysis System
-Overview
-This comprehensive data analysis system processes and analyzes customer support interactions and product reviews to extract actionable business insights. The pipeline handles data cleaning, transformation, and visualization for three key data types: product information, customer reviews, and support email threads.
+# Data Cleaning and Analysis Pipeline
 
-Data Processing Components
-1. Product Data Cleaning (clean_products_file())
-Standardizes product records from JSON files
+## Overview
+This project implements a comprehensive data cleaning and analysis pipeline for processing product information, customer reviews, and email marketing data. The pipeline standardizes, transforms, and performs exploratory data analysis (EDA) on the datasets, providing valuable insights through visualization.
 
-Handles column renaming and consolidation:
+## Features
+- Standardizes and cleans product, review, and email datasets.
+- Handles missing values, duplicates, and incorrect formatting.
+- Performs exploratory data analysis (EDA) using visualizations.
+- Provides insights into customer behavior and product performance.
 
-Unifies product ID fields
+## Requirements
+Ensure you have the following dependencies installed before running the script:
 
-Normalizes price columns (USD, retail, MSRP)
+```bash
+pip install pandas numpy matplotlib seaborn
+```
 
-Flattens nested details structures
+## Installation
+Clone the repository and navigate to the project directory:
 
-Outputs cleaned data with consistent schema:
+```bash
+git clone https://github.com/yourusername/LotusAI_assignment.git
+cd LotusAI_assignment
+```
 
-product_id, name, category, price, features
 
-2. Review Data Processing (clean_reviews_file())
-Processes CSV review data with:
+## Data Processing Workflow
+1. **Loading Data**
+   - Reads product, review, and email datasets into Pandas DataFrames.
 
-Date standardization
+2. **Data Cleaning**
+   - Handles missing values.
+   - Removes duplicate entries.
+   - Corrects inconsistent formatting.
 
-Rating normalization (1-5 scale)
+3. **Data Transformation**
+   - Standardizes categorical values.
+   - Extracts relevant features.
+   
+4. **Exploratory Data Analysis (EDA)**
+   - Generates summary statistics.
+   - Creates visualizations using Matplotlib and Seaborn.
 
-Text cleaning (lowercase, whitespace)
+## Visualization Examples
+- Distribution of product ratings
+- Monthly email engagement trends
+- Correlation analysis between product categories and reviews
 
-Duplicate removal
 
-Outputs structured review records:
-
-review_id, product_id, rating, review_text, review_date
-
-3. Email Thread Analysis (main() pipeline)
-Processes multiple JSON email files
-
-Extracts key thread metrics:
-
-Resolution timeline (start/end dates)
-
-Message volume and exchange rate
-
-Participant analysis (company vs manufacturer)
-
-Evidence detection (attachments/keywords)
-
-Outputs enriched thread data with:
-
-Temporal metrics, communication patterns, content features
-
-Analytical Capabilities
-Temporal Analysis
-Resolution time distributions
-
-Monthly case volume trends
-
-Initial response vs total resolution time
-
-Communication Analysis
-Message volume impact on outcomes
-
-Participant contribution breakdowns
-
-Evidence presence correlation
-
-Product Analysis
-Category performance comparisons
-
-Issue type frequency
-
-Keyword extraction from complaints
-
-Sentiment Analysis
-VADER sentiment scoring
-
-Rating-sentiment correlation
-
-Positive/negative word clouds
-
-Implementation Details
-Core Dependencies
-Pandas (data manipulation)
-
-Matplotlib/Seaborn (visualization)
-
-NLTK/VADER (sentiment analysis)
-
-WordCloud (text visualization)
-
-Data Flow
-Raw JSON/CSV inputs →
-
-Cleaning/normalization →
-
-Feature extraction →
-
-Analysis/visualization
-
-Usage Example
-python
-Copy
-# Process all data sources
-products = clean_products_file("data/products.json", "processed/products_clean.json")
-reviews = clean_reviews_file("data/reviews.csv", "processed/reviews_clean.csv") 
-email_df = main()  # Processes email threads
-
-# Generate analysis reports
-generate_sentiment_report(reviews)
-create_resolution_dashboard(email_df)
-Output Samples
-Metrics Table
-Metric	Value
-Avg Resolution Time	5.2 days
-Positive Sentiment	62%
-Evidence Impact	+28% resolution rate
-Visualization Types
-Temporal Trends (line charts)
-
-Outcome Distributions (bar plots)
-
-Word Clouds (text analysis)
-
-Correlation Matrices (heatmaps)
-
-Business Applications
-Identify product quality issues
-
-Measure support team performance
-
-Detect emerging customer concerns
-
-Benchmark resolution timelines
-
-Prioritize product improvements
-
-Maintenance
-Regular dependency updates
-
-Schema validation for new data
-
-Periodic model retraining
-
-Output format maintenance
-
-Extension Points
-Add chatbot integration
-
-Implement real-time processing
-
-Expand sentiment lexicon
-
-Add predictive modeling
-
-This system provides end-to-end analysis of customer voice data across multiple channels, enabling data-driven decision making for product and support teams.
